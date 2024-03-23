@@ -22,6 +22,20 @@
             "type": "milkshake",
             "ingredients": ["Strawberry Syrup", "Sprinkles", "Vanilla Base"],
             "image": "https://priyansht.github.io/24W-JavaScript-LH-Week11/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Matcha Green Tea",
+            "calories": 150,
+            "type": "ice-cream",
+            "ingredients": ["Matcha Powder", "Green Tea Leaves", "Vanilla Base"],
+            "image": "https://raw.githubusercontent.com/Aryeahhh/24W-JavaScript-LH-Week11/85c21ed9d8dbae5d89c76d49d47c08610fbe8519/images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Cookies and Cream",
+            "calories": 350,
+            "type": "milkshake",
+            "ingredients": ["Oreo Cookies", "Vanilla Base"],
+            "image": "https://raw.githubusercontent.com/Aryeahhh/24W-JavaScript-LH-Week11/85c21ed9d8dbae5d89c76d49d47c08610fbe8519/images/ice-cream-xtra1.svg"
         }
     ]
 }
